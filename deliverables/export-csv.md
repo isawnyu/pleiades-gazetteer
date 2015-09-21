@@ -1,4 +1,4 @@
-# performance upgrade: repackage nightly CSV export code and make it comprehensive
+# repackage nightly CSV export code and make it comprehensive
 
 From [the Pleiades 3 proposal narrative](http://pleiades.stoa.org/files/pleiades-3-2015/proposal.pdf), page 4:
 
