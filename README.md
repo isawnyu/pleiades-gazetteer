@@ -7,6 +7,10 @@ Please feel free to open an issue in [our issue tracker](https://github.com/isaw
 ## Pleiades 3
 At the beginning of August 2015, the [National Endowment for the Humanities](http://www.neh.gov) announced the award of a $322,615 grant for major upgrades and improvements to the *P​leiades* gazetteer of ancient places. More information about the award is available [on the ISAW News Blog](http://isaw.nyu.edu/news/pleiades-grant-2015). A copy of the proposal narrative has been [posted online in PDF format](http://pleiades.stoa.org/files/pleiades-3-2015/proposal.pdf). Tickets (issues) related to the grant-funded work are kept in the main issue tracker on this repository; [they are labeled "p3"](https://github.com/isawnyu/pleiades-gazetteer/labels/p3). Other documents related to the *Pleiades* 3 effort may be found in [the pleiades3 branch of this repository](https://github.com/isawnyu/pleiades-gazetteer/tree/pleiades3).
 
+### What's here:
+
+ * [Deliverables](https://github.com/isawnyu/pleiades-gazetteer/tree/pleiades3/deliverables): text extracted from the Pleiades 3 proposal that corresponds to major items of work or function to be carried out or implemented during the period of performance.
+
 ## Code
 To be added (it's in a bunch of different repositories, and we need to gather up the links here).
 
