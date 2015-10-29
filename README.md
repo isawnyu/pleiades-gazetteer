@@ -45,88 +45,97 @@ get the (left, bottom, top, right) bounding box of any grid square or map.
  * pinned to version 0.12.1
  * repository: [github:/isawnyu/pleiades-dump](https://github.com/isawnyu/pleiades-dump)
  
-### [Pleiades Entity](https://github.com/isawnyu/PleiadesEntity)
+### Pleiades Entity
  * The PleiadesEntity product provides Plone content types suitable for
 constructing and managing collections of geographic data items, for
 example, digital gazetteer entries.
  * **NB: PleiadesEntity is not installed by the buildout.** In the buildout, the products/README.txt file says: "Checkout or install PleiadesEntity into this folder."
+ * repository: [github:/isawnyu/PleiadesEntity](https://github.com/isawnyu/PleiadesEntity)
 
-### [Pleiades Geographer](http://www.atlantides.org/trac/pleiades/browser/pleiades.geographer)
+### Pleiades Geographer
  * no readme
- * off-github svn
+ * pinned to version 0.10.1
+ * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.geographer)
  
-### [Pleiades Iterate](http://www.atlantides.org/trac/pleiades/browser/pleiades.iterate)
+### Pleiades Iterate
  * no readme
- * off-github svn
+ * pinned to version 0.4
+ * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.iterate)
 
-### [Pleiades JSON](http://www.atlantides.org/trac/pleiades/browser/pleiades.json)
+### Pleiades JSON
  * no readme
- * off-github svn
+ * pinned to version 0.15.2
+ * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.json)
 
-### [Pleiades KML](https://github.com/isawnyu/pleiades-kml)
+### Pleiades KML
  * no readme
+ * pinned to version 0.13.1
+ * repository: [github:isawnyu/pleiades-kml](https://github.com/isawnyu/pleiades-kml)
  
-### [Pleiades Neighbors](http://www.atlantides.org/trac/pleiades/browser/pleiades.neighbors)
+### Pleiades Neighbors
  * no readme
- * off-github svn
+ * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.neighbors)
  
-### [Pleiades Normalizer](http://www.atlantides.org/trac/pleiades/browser/pleiades.normalizer)
+### Pleiades Normalizer
  * This package provides a unicode to ascii normalizer for Barrington Atlas feature labels based on the Plone Foundation's plone.i18n.
- * off-github svn
+ * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.normalizer)
 
-### [Pleiades Notre Dame](http://www.atlantides.org/trac/pleiades/browser/pleiades.notredame)
+### Pleiades Notre Dame
  * Adapted Notre Dame theme for Plone 3 with color scheme based on new Plone Logo.
- * off-github svn
+ * pinned to version 0.7.3
+ * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.notredame)
 
-### [Pleiades Open Layers](http://www.atlantides.org/trac/pleiades/browser/pleiades.openlayers)
+### Pleiades Open Layers
  * OpenLayers support for Pleiades
- * No longer used?
- * off-github svn
+ * This package is still in the buildout, but may no longer be used as place and other maps now use Leaflet.js.
+ * repository: [svn at atlantides](http://www.atlantides.org/trac/pleiades/browser/pleiades.openlayers)
 
-### [Pleiades Place Match](http://www.atlantides.org/trac/pleiades/browser/pleiades.placematch)
+### Pleiades Place Match
  * no readme
- * off-github svn
+ * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.placematch)
  
-### [Pleiades Policy](http://www.atlantides.org/trac/pleiades/browser/pleiades.policy)
+### Pleiades Policy
  * no readme
- * off-github svn
+ * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.policy)
 
-### [Pleiades Portlet Flickr](http://www.atlantides.org/trac/pleiades/browser/pleiades.portlet.flickr)
+### Pleiades Portlet for Flickr
  * The Flickr Portlet synposizes Flickr content related to places via Pleiades machine tags.
- * off-github svn
+ * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.portlet.flickr)
 
-### [Pleiades Portlet Pelagios](https://github.com/isawnyu/pleiades.portlet.pelagios)
+### Pleiades Portlet for Pelagios
  * The Pelagios Portlet synposizes Pelagios content related to places.
+ * repository: [github:isawnyu/pleiades.portlet.pelagios](https://github.com/isawnyu/pleiades.portlet.pelagios)
 
-### [Pleiades RDF](https://github.com/isawnyu/pleiades-rdf)
+### Pleiades RDF
  * This is the pleiades.rdf package. It provides RDF views of individual Pleiades places (such as http://pleiades.stoa.org/places/1043/turtle) and the comprehensive RDF dataset dumps at http://atlantides.org/downloads/pleiades/rdf/.
+ * repository: [github:isawnyu/pleiades-rdf](https://github.com/isawnyu/pleiades-rdf)
 
-### [Pleiades Reconciliation](http://www.atlantides.org/trac/pleiades/browser/pleiades.reconciliation)
+### Pleiades Reconciliation
  * no readme
- * off-github svn
+ * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.reconciliation)
 
-### [Pleiades Sitemap](http://www.atlantides.org/trac/pleiades/browser/pleiades.sitemap)
+### Pleiades Sitemap
  * no readme
- * off-github svn
+ * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.sitemap)
 
 ### Pleiades Theme (pleiades.theme)
 
-### [Pleiades Transliteration](http://www.atlantides.org/trac/pleiades/browser/pleiades.transliteration)
+### Pleiades Transliteration
  * This package provides modules for transliteration of names from Greek and Latin writing systems into our modern Roman writing system following conventions of the Classical Atlas Project.
- * No longer used?
- * off-github svn
+ * Still in the buildout, but I think we disabled use of this code in PleiadesEntity.
+ * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.transliteration)
  
-### [Pleiades Vaytrou Index](http://www.atlantides.org/trac/pleiades/browser/pleiades.vaytrouindex)
+### Pleiades Vaytrou Index
  * no readme
- * off-github svn
+ * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.vaytrouindex)
 
-### [Pleiades Vocabularies](http://www.atlantides.org/trac/pleiades/browser/pleiades.vocabularies)
+### Pleiades Vocabularies
  * no readme
- * off-github svn
+ * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.vocabularies)
  
-### [Pleiades Workspace](http://www.atlantides.org/trac/pleiades/browser/pleiades.workspace)
+### Pleiades Workspace
  * no readme
- * off-github svn
+ * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.workspace)
 
 
 ## Third-Party Code Used in the Plone Buildout
