@@ -96,29 +96,37 @@ example, digital gazetteer entries.
  
 ### Pleiades Policy
  * no readme
+ * pinned at version 0.3.1
  * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.policy)
 
 ### Pleiades Portlet for Flickr
  * The Flickr Portlet synposizes Flickr content related to places via Pleiades machine tags.
+ * pinned at version 0.5
  * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.portlet.flickr)
 
 ### Pleiades Portlet for Pelagios
  * The Pelagios Portlet synposizes Pelagios content related to places.
+ * pinned at version 0.1
  * repository: [github:isawnyu/pleiades.portlet.pelagios](https://github.com/isawnyu/pleiades.portlet.pelagios)
 
 ### Pleiades RDF
  * This is the pleiades.rdf package. It provides RDF views of individual Pleiades places (such as http://pleiades.stoa.org/places/1043/turtle) and the comprehensive RDF dataset dumps at http://atlantides.org/downloads/pleiades/rdf/.
+ * pinned at version 0.12
  * repository: [github:isawnyu/pleiades-rdf](https://github.com/isawnyu/pleiades-rdf)
 
 ### Pleiades Reconciliation
  * no readme
+ * pinned at version >= 0.4
  * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.reconciliation)
 
 ### Pleiades Sitemap
  * no readme
+ * pinned at version 0.2
  * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.sitemap)
 
 ### Pleiades Theme (pleiades.theme)
+ * no readme
+ * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.theme)
 
 ### Pleiades Transliteration
  * This package provides modules for transliteration of names from Greek and Latin writing systems into our modern Roman writing system following conventions of the Classical Atlas Project.
@@ -127,14 +135,17 @@ example, digital gazetteer entries.
  
 ### Pleiades Vaytrou Index
  * no readme
+ * pinned at version 0.9.1
  * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.vaytrouindex)
 
 ### Pleiades Vocabularies
  * no readme
+ * pinned at version 0.3
  * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.vocabularies)
  
 ### Pleiades Workspace
  * no readme
+ * pinned at version 0.5.1
  * repository: [svn at atlantides.org](http://www.atlantides.org/trac/pleiades/browser/pleiades.workspace)
 
 
