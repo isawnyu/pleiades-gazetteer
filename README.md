@@ -11,7 +11,7 @@ At the beginning of August 2015, the [National Endowment for the Humanities](htt
 
 
 ## Code: Plone Buildout
-Pleiades runs on [Plone](http://plone.org). With plenty of add-ons and customizations. Relevant repositories are listed in the following sectinos. 
+Pleiades runs on [Plone](http://plone.org). With plenty of add-ons and customizations. Relevant repositories are listed in the following sections. 
 
 The Plone buildout for Pleiades is [Pleiades 3 Buildout](https://github.com/isawnyu/pleiades3-buildout). The [pleiades-production.cfg config file](https://github.com/isawnyu/pleiades3-buildout/blob/master/pleiades-production.cfg) is used on production; it extends [buildout.cfg](https://github.com/isawnyu/pleiades3-buildout/blob/master/buildout.cfg) and [production-versions.cfg](https://github.com/isawnyu/pleiades3-buildout/blob/master/production-versions.cfg). Note that the buildout makes use of a static package distributions directory at http://atlantides.org/eggcarton/. 
 
